@@ -18,3 +18,6 @@ Desenvolvimento de um script em Shell Script (`monitoramento.sh`) focado na admi
 1. Dê permissão de execução ao arquivo:
    ```bash
    chmod +x monitoramento.sh
+
+2. para execuçao:
+  ./monitoramento.sh
