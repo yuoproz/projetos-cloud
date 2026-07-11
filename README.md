@@ -1,3 +1,4 @@
+<img width="512" height="122" alt="Capturar" src="https://github.com/user-attachments/assets/cb8e36e8-4ee9-486c-bd5d-c4f37bad5628" />
  🚀 Projetos Cloud & DevOps
 
 Este repositório foi criado para documentar e hospedar os meus projetos práticos de engenharia de infraestrutura, automação e computação em nuvem.
